@@ -1,4 +1,5 @@
-enzomotta.github.io
+enzomotta.com
 ===================
 
-My personal website
+My personal website. Not updating so soon.
+
