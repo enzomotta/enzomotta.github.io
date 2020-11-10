@@ -13,7 +13,7 @@ I'm a software developer since 2002 and I've worked on projects for oil and gas,
 Music, Literature, Philosophy, Travel and Skateboarding.
 
 ### Articles
-- [Welcome](_posts/2020-11-15-welcome.md)
+- [Welcome](_posts/2020-11-10-hello-world.md)
 
 ### Contact
 You can contact me at [enzomotta@gmail.com](mailto:enzomotta@gmail.com)
