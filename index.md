@@ -1,5 +1,5 @@
 ### About me
-I'm a software developer since 2002 and I've worked on projects for oil and gas, telecommunications and financial services. I also co-founded a couple startups (movere and eusocio). I'm actually on Friday Pagamentos working to make it easy to pay and manage bills..
+I'm a software developer since 2002 and I've worked on projects for oil and gas, telecommunications and financial services. I also co-founded a couple startups (movere and eusocio). I'm actually on Friday Pagamentos working to make it easy to pay and manage bills.
 
 ### Experience
 - Java and Kotlin
