@@ -1,9 +1,0 @@
-title: enzomotta.com
-description: My personal website
-google_analytics:
-show_downloads: false
-theme: jekyll-theme-minimal
-logo: /assets/img/me.png
-
-gems:
-  - jekyll-mentions
